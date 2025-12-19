@@ -3,7 +3,7 @@
 Task 03 for Prodigy InfoTech Web Development Internship (December 2025)
 
 **Live Demo**  
-
+https://shivamcodez01.github.io/PRODIGY_WD_03/
 
 ## Features
 - 2-Player (local) mode
@@ -17,7 +17,7 @@ HTML5, CSS3, Vanilla JavaScript
 
 ## How to run locally
 1. Clone:
-git clone 
+git clone https://github.com/shivamcodez01/PRODIGY_WD_03.git
 2. `cd PRODIGY_WD_03`
 3. Open `index.html` in your browser or run a simple static server.
 
@@ -25,7 +25,7 @@ git clone
 Publish using GitHub Pages:
 1. Push the repo to GitHub.
 2. Settings → Pages → Select `main` branch and `/ (root)` → Save.
-3. Visit `` after deployment.
+3. Visit `https://shivamcodez01.github.io/PRODIGY_WD_03/` after deployment.
 
 ## Author
 Shivam Agrahari — Web Development Intern @ Prodigy InfoTech  
